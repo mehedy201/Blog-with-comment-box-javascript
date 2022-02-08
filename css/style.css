@@ -51,7 +51,7 @@ nav{
 /* Blog hero area Start ------------------ */
 .blog-cover-image{
     height: 200px;
-    background-image: url(/blur1.png);
+    background-image: url('/image/blur1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
